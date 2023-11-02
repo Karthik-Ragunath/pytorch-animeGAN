@@ -18,7 +18,7 @@
                 "--checkpoint-dir", "checkpoints",
                 "--save-image-dir", "save_imgs",
                 "--save-interval", "1",
-                "--gan-loss", "lsgan",           
+                "--gan-loss", "lsgan",
                 "--init-lr", "0.0001",
                 "--lr-g", "0.00002",
                 "--lr-d", "0.00004",
